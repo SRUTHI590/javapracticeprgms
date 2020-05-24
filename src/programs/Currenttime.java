@@ -11,6 +11,10 @@ public class Currenttime {
 		Date date=new Date();
 		String Currentdate=simple.format(date);
 		System.out.println("The current date and time is:"  +Currentdate);
+		System.out.println("Dislayed time and current date");
+		System.out.println("Dislayed time and current date");
+		
+		System.out.println("Dislayed time and current date");
 
 	}
 
